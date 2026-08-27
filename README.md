@@ -11,7 +11,7 @@ Description: Examined employee attrition drivers on the IBM HR Analytics dataset
 
 ****2.Customer Shopping Behavior Analysis**
 
-Project Link: [Customer behavior & Sales analysis](https://github.com/AfsalM7/Customer-behavior-Sales-analysis/blob/main/README.md
+Project Link: [Customer behavior & Sales analysis](https://github.com/AfsalM7/Customer-behavior-Sales-analysis/blob/main/README.md)
 
 Tools: Python, PostgreSQL, Power BI ,Azure SQL Database, Excel
 
