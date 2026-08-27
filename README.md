@@ -1,6 +1,6 @@
 # Afsal Portfolio 🙌
 
-1.Human Resource Employee Attrition Analysis
+**1.Human Resource Employee Attrition Analysis**🤖
 
 Project Link: [HR Employee Attrition Analysis](https://github.com/AfsalM7/HR-Attrition-Analysis)
 
